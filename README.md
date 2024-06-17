@@ -2,7 +2,7 @@
 👀 I’m interested in web development, data science, and machine learning.
 🌱 I’m currently learning Python, JavaScript, and Git.
 💞️ I’m looking to collaborate on beginner-friendly projects in web development or data science.
-📫 How to reach me: You can reach me via GitHub or email me at clevelandoa56@gmail.com.
+📫 How to reach me: You can reach me via GitHub , Instagram: https://www.instagram.com/its_c.l.3.v.3.l.a.n.d._k  or email me at clevelandoa56@gmail.com.
 😄 Pronouns: He
 ⚡ Fun fact: I once won a programming contest by writing a program to play tic-tac-toe against the computer!
 
